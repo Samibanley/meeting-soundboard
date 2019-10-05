@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Meeting Sound Board</string>
+    <string name="meetingStarts">Meeting Start Songs</string>
+    <string name="standUpStart">Stand Up Start</string>
+    <string name="retroOne">I Get Knocked Down</string>
+    <string name="retroTwo">Something to Talk About</string>
+    <string name="turnAround">Turn Around</string>
+    <string name="meetingEnds">Meeting End Songs</string>
+    <string name="standUpEnd">Stand Up End</string>
+    <string name="closingTime">Closing Time</string>
+    <string name="takeMeAway">Take Me Away</string>
+    <string name="misc">Miscellaneous</string>
+    <string name="failure">Failure</string>
+</resources>

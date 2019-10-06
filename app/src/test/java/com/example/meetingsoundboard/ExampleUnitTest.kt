@@ -1,4 +1,4 @@
-package com.example.worksoundboard
+package com.example.meetingsoundboard
 
 import org.junit.Test
 
